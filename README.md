@@ -21,7 +21,7 @@
 - 💬 Ask me about *Web development , UX UI , MERN*
 
 - 📫 How to reach me *bhaweshpandey2004@gmail.com*
-
+-👨‍💻 Builds efficient and scalable codes
   
 <hr>
 
@@ -35,7 +35,7 @@
 <hr>
 <h2 align="left">About Me</h2>
 
-  <li>🚀 Passionate frontend developer focused on building beautiful, responsive, and user-friendly web apps.</li>
+  <li>🚀 Passionate full stack developer focused on building beautiful, responsive, and user-friendly web apps.</li>
   <li>📱 Currently learning React Native to create powerful cross-platform mobile applications.</li>
 </ul>
 <hr>
