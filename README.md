@@ -8,7 +8,7 @@
 
 
 
-<h1 align="left">Hi 👋, I'm Bhawesh Pandey</h1>
+<h1 align="center">Hi 👋, I'm Bhawesh Pandey</h1>
 <h3 align="center">A passionate  developer from India</h3>
 <img align="right" alt="Coding" width="320" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -23,7 +23,7 @@
 - 📫 How to reach me *bhaweshpandey2004@gmail.com*
 
   
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
