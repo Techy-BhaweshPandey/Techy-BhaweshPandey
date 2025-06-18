@@ -34,8 +34,8 @@
 <h2 align="left">About Me</h2>
 
 <ul align="center" style="list-style-type:none; padding-left:0;">
-  <li>🚀 Passionate full stack developer focused on building beautiful, responsive, and user-friendly web apps.</li>
-  <li>📱 Currently learning React Native to create powerful cross-platform mobile applications.</li>
+  <li>🚀Passionate full stack developer focused on building beautiful, responsive, and user-friendly web apps.</li>
+  <li>📱Currently learning React Native to create powerful cross-platform mobile applications.</li>
 </ul>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
