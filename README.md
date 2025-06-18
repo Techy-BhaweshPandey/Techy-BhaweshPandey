@@ -1,4 +1,5 @@
-![MasterHead](https://content.wepik.com/statics/27165756/preview-page0.jpg)
+<img src="https://content.wepik.com/statics/27165756/preview-page0.jpg" alt="MasterHead" width="900" height="280" />
+
 
 
 
