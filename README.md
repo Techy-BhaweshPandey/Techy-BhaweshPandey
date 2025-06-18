@@ -1,4 +1,7 @@
-<img src="https://content.wepik.com/statics/27165756/preview-page0.jpg" alt="MasterHead" width="900" height="280" />
+<div align="center">
+  <img src="https://content.wepik.com/statics/27165756/preview-page0.jpg" alt="MasterHead" width="850" height="320" />
+</div>
+
 
 
 
