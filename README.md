@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/jxWqIBf.gif" width="300" alt="Person coding on computer">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Person coding on computer">
 </p>
 
 <h1 align="center">💖 Love Coding 💖</h1>
