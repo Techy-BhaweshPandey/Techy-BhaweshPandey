@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://cdn.dribbble.com/users/2046015/screenshots/5822704/media/68f408f9f9cf24ef7608d0e7f4704e54.gif)
+
 
 <h1 align="center">Hi 👋, I'm Bhawesh Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -6,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Techy-BhaweshPandey&label=Profile%20views&color=0e75b6&style=flat" alt="Techy-BhaweshPandey" /> </p>
 
-- 🌱 I’m currently learning *React Native*
+
 
 - 👨‍💻 All of my projects are available at [techy-bhaweshpandey.github.io/Portfolio/](https://techy-bhaweshpandey.github.io/Portfolio/)
 
 - 💬 Ask me about *Web development , UX UI , MERN*
 
-- 📫 How to reach me *amanbari397@gmail.com*
+- 📫 How to reach me *bhaweshpandey2004@gmail.com*
 
 - ⚡ Fun fact *I think I am funny*
 
