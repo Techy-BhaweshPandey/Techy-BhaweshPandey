@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhawesh Pandey</h1>
 <h3 align="center">A passionate  developer from India</h3>
-<img align="right" alt="Coding" width="320" height="164" style="margin-top: -30px;"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="320" height="158"   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Techy-BhaweshPandey&label=Profile%20views&color=0e75b6&style=flat" alt="Techy-BhaweshPandey" /> </p>
 
