@@ -21,8 +21,7 @@
 - 💬 Ask me about *Web development , UX UI , MERN*
 
 - 📫 How to reach me *bhaweshpandey2004@gmail.com*
--👨‍💻 *Builds efficient and scalable codes*
-  
+  - 📫 How to reach me *bhaweshpandey2004@gmail.com*
 <hr>
 
 <h3 align="left">Connect with me:</h3>
