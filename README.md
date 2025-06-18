@@ -9,7 +9,7 @@
 ## 👤 About Me
 
 **Name:** Bhawesh Pandey 
-**Email:** your.email@example.com  
+**Email:** bhaweshpandey2004@gmail.com 
 **Education:** B.C.A (Bachelor in Computer Application)  
 **About Me:**  
 A passionate developer who loves building full-stack applications and constantly learning new technologies.
@@ -45,8 +45,7 @@ A passionate developer who loves building full-stack applications and constantly
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-  <!-- JSP & Servlet: No official icons, use Java icon or custom -->
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-java-servlet-used-in-java-enterprise-software-web-applications-logo-shadow-tal-revivo.png" width="40" height="40" alt="Servlet"/>
+ 
 
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
