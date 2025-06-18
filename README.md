@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhawesh Pandey</h1>
 <h3 align="center">A passionate  developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="320" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Techy-BhaweshPandey&label=Profile%20views&color=0e75b6&style=flat" alt="Techy-BhaweshPandey" /> </p>
 
@@ -25,19 +25,21 @@
   
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhawesh-pandey-8b64b9303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaweshpandey" height="30" width="40" /></a>
 
 <a href="https://leetcode.com/u/BhaweshPandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhaweshpandey" height="30" width="40" /></a>
 </p>
+
+
 <h2 align="center">About Me</h2>
 <ul align="center" style="list-style-type:none; padding-left:0; line-height: 1.6;">
   <li>🚀 Passionate frontend developer focused on building beautiful, responsive, and user-friendly web apps.</li>
   <li>📱 Currently learning React Native to create powerful cross-platform mobile applications.</li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -57,6 +59,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Techy-BhaweshPandey&show_icons=true&locale=en&layout=compact" alt="Techy-BhaweshPandey" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Techy-BhaweshPandey&show_icons=true&locale=en&layout=compact" alt="Techy-BhaweshPandey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Techy-BhaweshPandey&show_icons=true&locale=en" alt="Techy-BhaweshPandey" /></p>
