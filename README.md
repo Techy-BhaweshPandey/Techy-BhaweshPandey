@@ -16,7 +16,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [techy-bhaweshpandey.github.io/Portfolio/](https://techy-bhaweshpandey.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at (https://github.com/Techy-BhaweshPandey)
 
 - 💬 Ask me about *Web development , UX UI , MERN*
 
