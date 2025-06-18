@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/2046015/screenshots/5822704/media/68f408f9f9cf24ef7608d0e7f4704e54.gif)
+![MasterHead](https://media.giphy.com/media/3oEduV6h6v0b1m8A9S/giphy.gif)
 
 
 <h1 align="center">Hi 👋, I'm Bhawesh Pandey</h1>
